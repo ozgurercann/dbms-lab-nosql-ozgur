@@ -15,4 +15,3 @@ Bu proje, farklı NoSQL veri modellerinin (Key-Value, IMDG, Document) performans
 Proje kapsamında 10 eş zamanlı kullanıcı ile toplam 1000 istek gönderilerek yapılan testlerin sonuçları rapor dosyasında ve videoda sunulmuştur.
 
 - **GitHub:** https://github.com/ozgurercann/dbms-lab-nosql-ozgur
-- **Video:** [YouTube Linkiniz Buraya]
